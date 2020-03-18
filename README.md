@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/codenix-sv/kuna-api.svg?branch=master)](https://travis-ci.org/codenix-sv/kuna-api)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/codenix-sv/kuna-api/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/codenix-sv/kuna-api/?branch=master)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/061cf99228a9db6533d9/test_coverage)](https://codeclimate.com/github/codenix-sv/kuna-api/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/061cf99228a9db6533d9/maintainability)](https://codeclimate.com/github/codenix-sv/kuna-api/maintainability)
 [![License: MIT](https://img.shields.io/github/license/codenix-sv/kuna-api)](https://github.com/codenix-sv/kuna-api/blob/master/LICENSE)
 
 A simple PHP API client, written with PHP for [kuna.io](https://kuna.io).
