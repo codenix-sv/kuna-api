@@ -14,6 +14,8 @@ This repository is no longer active.
 ⛔ No maintenance  
 
 Source code is kept only for reference purposes.
+
+
 A simple PHP API client, written with PHP for [kuna.io](https://kuna.io).
 
 Kuna.io [API documentation](https://kuna.io/documents/api?lang=en).
