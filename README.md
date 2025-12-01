@@ -6,15 +6,17 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/061cf99228a9db6533d9/maintainability)](https://codeclimate.com/github/codenix-sv/kuna-api/maintainability)
 [![License: MIT](https://img.shields.io/github/license/codenix-sv/kuna-api)](https://github.com/codenix-sv/kuna-api/blob/master/LICENSE)
 
+# 🚨 ARCHIVED 🚨
+
+This repository is no longer active.  
+⛔ No new issues  
+⛔ No pull requests  
+⛔ No maintenance  
+
+Source code is kept only for reference purposes.
 A simple PHP API client, written with PHP for [kuna.io](https://kuna.io).
 
 Kuna.io [API documentation](https://kuna.io/documents/api?lang=en).
-
-## Repository Archived
-
-This repository is now archived and is no longer actively maintained.  
-The code remains available for reference, but no further updates, bug fixes, or support will be provided.
-
 
 ## Requirements
 
