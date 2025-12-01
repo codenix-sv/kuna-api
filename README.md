@@ -10,6 +10,12 @@ A simple PHP API client, written with PHP for [kuna.io](https://kuna.io).
 
 Kuna.io [API documentation](https://kuna.io/documents/api?lang=en).
 
+## Repository Archived
+
+This repository is now archived and is no longer actively maintained.  
+The code remains available for reference, but no further updates, bug fixes, or support will be provided.
+
+
 ## Requirements
 
 * PHP >= 7.2
